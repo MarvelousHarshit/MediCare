@@ -4,7 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    background-color: lightblue;
+    background-color: #588c7e;
 }
 header {
     width: 100%;
@@ -22,7 +22,7 @@ header {
 .navBar ul li a {
     display: block;
     padding: 10px 30px;
-    color: lightcoral;
+    color: #f2ae72;
 }
 
 .navBar ul li a:hover {
@@ -37,7 +37,7 @@ h1{
 }
 .allDetailLogin form{
     width: 40%;
-    border: 1px solid lightcoral;
+    border: 1px solid #f2ae72;
     text-align: center;
     display: flex;
     flex-direction: column;
